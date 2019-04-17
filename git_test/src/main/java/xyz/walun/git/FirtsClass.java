@@ -9,6 +9,7 @@ public class FirtsClass {
 		System.out.println("hello git ");
 		// hello test
 		// 再次修改
+		// 再次修改
 	}
 	public void test(){
 		int i = 0;
